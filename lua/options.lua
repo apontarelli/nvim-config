@@ -33,6 +33,8 @@ opt.titlestring = '%t%( %M%)%( (%{expand("%:~:h")})%)%a (nvim)'
 opt.undofile = true
 
 opt.showmode = false
+opt.concealcursor = 'nc'
+opt.conceallevel = 1 
 
 -- Save undo history
 opt.undofile = true
