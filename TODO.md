@@ -1,3 +1,9 @@
+## TODO
+   [ ] Update Avante config
+      - Add prompts
+      - Configure default model providers
+   [ ] Update MCPHub implementation
+
 ## Plugins to check out
 
    - Database interface: https://github.com/tpope/vim-dadbod
